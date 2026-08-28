@@ -1,0 +1,1 @@
+En este repositorio se encuentran las canciones generadas por los grupos participantes en el proyecto. Cada archivo está nombrado bajo el nombre de la escuela en la que se grabó la canción contenida. Para lograr descargar y escuchar el audio, es necesario hacer click en la leyenda "view raw". 
